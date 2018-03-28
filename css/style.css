@@ -1,0 +1,65 @@
+body{
+        font-family: roboto;
+        max-height: 100vh!important;
+    }
+
+/*splash css start*/
+
+#splash-draw{
+    height: 100vh;
+    background-color: #f47435;
+    background: url('../images/splash-drawable.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.splash-line{
+    margin-top: 20px; 
+    text-align: center;
+     font-size: 22px; 
+     color: #fff;
+}
+
+/*splash css end*/
+
+
+/*welcome css start*/
+
+#welcome-draw{
+    height: 100vh;
+    background-color: #f47435;
+    background: url('../images/welcome-drawable.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#welcome-2-draw{
+    height: 100vh;
+    background-color: #f47435;
+    background: url('../images/welcome-2-drawable.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.welcome-line{
+    margin-top: 110px; 
+    text-align: center;
+     font-size:34px; 
+     font-weight: 550;
+   
+     color: #fff;
+}
+.welcome-line-btm{
+    margin-top: 100px; 
+    text-align: center;
+     font-size:28px; 
+     color: #fff;
+     padding:20px 0px 20px 0px;
+}
+
+/*welcome css end*/
