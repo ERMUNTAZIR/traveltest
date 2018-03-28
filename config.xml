@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.triangularweb.iltcindia" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>ILTC India</name>
+    <description>
+        Travel App
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+<platform name="ios" />
+<platform name="android" />
+<platform name="winphone" />
+
+    <content src="index.html" />
+    <access origin="*" />
+    <splash src="images/logo.png" />
+    <icon src="images/logo.png" />
+</widget>
